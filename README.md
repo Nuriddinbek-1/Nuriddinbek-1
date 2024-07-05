@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Nuriddinbek - Software Engineer
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning working with team
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on website projects
 - 📫 How to reach me tg: @nuriddinbek_1
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 - My Skills: 
 <code><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="25px"/></code>
