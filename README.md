@@ -11,7 +11,7 @@
 <code><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="30px"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/800px-Vitejs-logo.svg.png" width="30px"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="30px" height="20px"/></code>
-<code><img src="https://logos-world.net/wp-content/uploads/2021/02/Trello-Logo.png" width="50px"/></code>
+<code><img src="https://www.fillout.com/_next/static/media/trello.f698afcd.svg" width="50px"/></code>
 <code><img src="https://camo.githubusercontent.com/ec2afdce692cf500e1ccb1d104c3155b48427b316fa5a7ad66b25f88d98c607c/68747470733a2f2f692e696d6775722e636f6d2f7667704959474a2e706e67" width="35px"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="30px"/></code>
 <code><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="30px"/></code>
