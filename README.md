@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nuriddinbek - Software Engineer
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Next JS / TypeScript
 - 💞️ I’m looking to collaborate on website projects
 - 📫 How to reach me tg: @nuriddinbek_1
 
@@ -16,9 +16,6 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/640px-Microsoft_Word_2013-2019_logo.svg.png" width="25px"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2255px-Microsoft_PowerPoint_2013-2019_logo.svg.png" width="25px"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png" width="25px"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" width="25px"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="25px"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CorelDraw_logo.svg/1914px-CorelDraw_logo.svg.png" width="25px"/></code>
 
 <!---
 Nuriddinbek-1/Nuriddinbek-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
