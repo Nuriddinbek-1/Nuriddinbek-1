@@ -13,9 +13,6 @@
 <code><img src="https://logos-world.net/wp-content/uploads/2021/02/Trello-Logo.png" width="50px"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="30px"/></code>
 <code><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="30px"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/640px-Microsoft_Word_2013-2019_logo.svg.png" width="25px"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2255px-Microsoft_PowerPoint_2013-2019_logo.svg.png" width="25px"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png" width="25px"/></code>
 
 <!---
 Nuriddinbek-1/Nuriddinbek-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
