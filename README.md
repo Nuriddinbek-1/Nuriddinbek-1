@@ -14,7 +14,7 @@
 <code><img src="https://www.nuriddinbek.uz/assets/logos/threejs.svg" width="35px"/></code>
 <code><img src="https://www.nuriddinbek.uz/assets/logos/git.svg" width="35px"/></code>
 <code><img src="https://www.nuriddinbek.uz/assets/logos/github.svg" width="35px"/></code>
-<code><img src="https://www.nuriddinbek.uz/assets/logos/tailwindcss.svg" width="40px" style="margin-bottom: 10px"/></code>
+<code><img src="https://www.nuriddinbek.uz/assets/logos/tailwindcss.svg" width="40px"/></code>
 
 <!---
 Nuriddinbek-1/Nuriddinbek-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
