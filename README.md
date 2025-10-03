@@ -5,16 +5,16 @@
 - 📫 How to reach me tg: @nuriddinbek_1
 
 - My Skills: 
-<code><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="30px"/></code>
-<code><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="30px"/></code>
-<code><img src="https://cdn.pixabay.com/photo/2017/03/30/17/41/javascript-2189147_1280.png" width="35px"/></code>
-<code><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="30px"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/800px-Vitejs-logo.svg.png" width="30px"/></code>
+<code><img src="https://www.nuriddinbek.uz/assets/logos/html5.svg" width="30px"/></code>
+<code><img src="https://www.nuriddinbek.uz/assets/logos/css3.svg" width="30px"/></code>
+<code><img src="https://www.nuriddinbek.uz/assets/logos/javascript.svg" width="35px"/></code>
+<code><img src="https://www.nuriddinbek.uz/assets/logos/react.svg" width="30px"/></code>
+<code><img src="https://www.nuriddinbek.uz/assets/logos/vitejs.svg" width="30px"/></code>
 <code><img src="https://www.nuriddinbek.uz/assets/logos/tailwindcss.svg" width="30px"/></code>
-<code><img src="https://www.fillout.com/_next/static/media/trello.f698afcd.svg" width="30px"/></code>
-<code><img src="https://camo.githubusercontent.com/ec2afdce692cf500e1ccb1d104c3155b48427b316fa5a7ad66b25f88d98c607c/68747470733a2f2f692e696d6775722e636f6d2f7667704959474a2e706e67" width="35px"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="30px"/></code>
-<code><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="30px"/></code>
+<code><img src="https://www.nuriddinbek.uz/assets/logos/trello.svg" width="30px"/></code>
+<code><img src="https://www.nuriddinbek.uz/assets/logos/threejs.svg" width="35px"/></code>
+<code><img src="https://www.nuriddinbek.uz/assets/logos/git.svg" width="30px"/></code>
+<code><img src="https://www.nuriddinbek.uz/assets/logos/github.svg" width="30px"/></code>
 
 <!---
 Nuriddinbek-1/Nuriddinbek-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
